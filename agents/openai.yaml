@@ -1,0 +1,4 @@
+interface:
+  display_name: "Flutter Dead Code Audit"
+  short_description: "Audit dead Dart code and orphan files safely"
+  default_prompt: "Use $flutter-dead-code-audit to audit this Flutter project for dead Dart declarations and orphaned Dart files without deleting anything."
